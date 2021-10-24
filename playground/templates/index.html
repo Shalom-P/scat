@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<center>
+    <h1>Enter your shit mother fuckers</h1>
+    <br><br>
+    {% for i in listt %}
+        <div class="card">
+            <div class="card-header">
+                {{i}}
+            </div>
+            <div class="card-body">
+            <h5 class="card-title">{{i.label}}</h5>
+            </div>
+        </div>
+
+    {%endfor%}
+</center>
+
+{% endblock %}
