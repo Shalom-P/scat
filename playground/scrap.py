@@ -12,6 +12,7 @@ def scrap_news(quest):
     driver.get(quest)
 
     youtube_data = []
+    
 
     for result in driver.find_elements_by_css_selector('.text-wrapper.style-scope.ytd-video-renderer'):
         title = result.find_element_by_css_selector('.title-and-badge.style-scope.ytd-video-renderer').text
