@@ -1,0 +1,20 @@
+topic 1::(moonraj) slides 1 -3
+introduction:
+in brief what our projects is
+tools
+what we our final result ot be
+
+topic 2::4-5
+working of our model..
+existing technologies are there
+how it is different from our project
+
+topic 2:: 6-8
+how we can improve it
+advantages of our project
+
+topic 4::(conclusion)(sanjay)9-`10
+what we are going to to do in the next phase
+
+shalom final sentence
+

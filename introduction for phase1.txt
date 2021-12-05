@@ -1,0 +1,26 @@
+introduction:
+
+1)domain machine learning 
+   ---python is a tool which we use to implement machine learning
+ note: points relevent to how we are going to use in our project
+
+
+introduction to tpoic our project title
+some points to cover--
+1)our project is divided into two parts
+        1. data collection(this includes cleaning the data aslo)
+        2. traing the machine learning model and finding the most effecient
+            model for our use case.
+1..data collection--
+    -we take a news related sentence and compare it to verified news channels 
+      reported headlines on that particular topic.
+      with the help of youtube..
+      (note: just understand how it works......)  
+2..training the model--
+   -using the data collected preciously we train and an effecient model
+     to give us the desired output(i.e. to tell if a news related sentence is true or      not)
+
+
+problem statement:::
+to analyse a news related statement and to come to a conclusion if it is true or not by using real time verified data.
+
