@@ -1,0 +1,10 @@
+literature survey::
+we should have the details for the existing models 
+
+
+existing systems:
+-just find it
+
+disadvantages
+(main) 
+-does not have room for human interpretation

@@ -1,0 +1,6 @@
+conclusion::
+what we have phase 1
+and what we are doing for phase 2
+--phase1:defined out problem and laid out a plan to execute it
+--phase2:we will finish with first half of our project i.e. data collection and                             cleaning.
+need more information
