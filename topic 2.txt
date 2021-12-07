@@ -8,3 +8,7 @@ existing systems:
 disadvantages
 (main) 
 -does not have room for human interpretation
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250114/#:~:text=Machine%20learning%20algorithms%20can%20be%20used%20to%20identify,to%20train%20the%20algorithms%20to%20identify%20fake%20news.
+
+https://research.asu.edu/algorithm-detect-fake-news-qa-huan-liu-and-kai-shu
